@@ -1,0 +1,102 @@
+Informe Técnico
+
+Proyecto de Investigación y Desarrollo
+Segundo Semestre 4to año
+
+Universidad de las Ciencias Informáticas 
+Facultad 4
+
+
+
+
+
+
+
+
+
+Título: Libro digital interactivo para la enseñanza de valores en edades tempranas
+Autor (s): Milena García Pérez
+Tutor (s): MSc. Omar Correa Madrigal
+
+
+La Habana, febrero de 2022
+
+Índice 
+
+Resumen	3
+Abstract	4
+Introducción	5
+Desarrollo	7
+Conceptos fundamentales relacionados con la investigación	7
+Libros interactivos	7
+Libros interactivos clásicos literarios	7
+Libros interactivos infantiles	7
+Herramientas con funcionalidades homólogas	7
+Metodología a utilizar	7
+Herramientas a utilizar	7
+Propuesta de solución	7
+Conclusiones	8
+Bibliografía	8
+Anexos	8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resumen
+La lectura es un hábito de comunicación que permite desarrollar los pensamientos cognitivos e interactivos de cualquier lector, el leer permite construir con facilidad nuevos conocimientos. La lectura es un hábito que puede mejorar las condiciones sociales y humanas de cualquier lector, permite pensar con reflexión y desarrollar los aspectos cognitivos del cerebro lo que ayuda a ejercitar todas las células y estar siempre activos para cualquier actividad que se realice en la vida cotidiana. De acuerdo a Gómez Palacio (1992) la lectura se centra en el “Saber leer, lograr que un texto escrito fuera leído adecuadamente por una persona, quería decir saber descifrar”.
+Actualmente los medios electrónicos envuelven a los niños en cualquier actividad menos en la lectura que es importante para mejorar su aprendizaje y sostener una comunicación con cualquier persona. El presente informe técnico tiene como objetivo desarrollar un libro digital interactivo para la enseñanza de valores en edades tempranas, entre estos valores se encontrarán la amistad, sinceridad, humildad, respeto a los otros, amor a la Patria y los símbolos patrios, entre otros. La propuesta de solución informatiza libros infantiles donde se aprecian ejemplos prácticos de algunos valores humanos. La interfaz será interactiva e intuitiva con un diseño en 3D. 
+Palabras clave: cuentos, libro interactivo, niños, valores. 
+
+
+
+
+
+
+
+
+
+
+Abstract
+Reading is a communication habit that allows to develop the cognitive and interactive thoughts of any reader, reading allows to easily build new knowledge. Reading is a habit that can improve the social and human conditions of any reader, it allows to think with reflection and develop the cognitive aspects of the brain, which helps to exercise all the cells and to be always active for any activity that is carried out in daily life. According to Gómez Palacio (1992) reading focuses on "Knowing how to read, getting a written text to be read properly by a person, it meant knowing how to decipher".
+Currently, electronic media involve children in any activity except reading, which is important to improve their learning and maintain communication with anyone. The objective of this technical report is to develop an interactive book to carry out a didactic and fun education as a way of teaching values to children, among these values will be found friendship, sincerity, humility, respect for others, love for the country and national symbols, among others. The proposed solution computerizes children's books where practical examples of some human values are appreciated. The interface will be interactive and intuitive with a 3D design.
+
+Keywords: children, interactive book, stories, values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introducción
+Valores como la amistad, la generosidad, la paciencia y el respeto, son esenciales para un sano desarrollo de los niños. Debemos educar a los niños desde pequeños en valores para lograr que ellos sean mejores personas. El valor es todo bien encerrado en las cosas, descubierto con mi inteligencia, deseado y querido por mi voluntad. Los valores dignifican y acompañan la existencia de cualquier ser humano.  El valor, por tanto, es la convicción razonada y firme de que algo es bueno o malo y de que conviene más o menos. Los valores reflejan la personalidad de los individuos y son la expresión del tono moral, cultural, afectivo y social marcado por la familia, la escuela, las instituciones y la sociedad en que ha tocado vivir. Cada día se hace indispensable una educación en valores dado que nos encontramos inmersos en una sociedad continuamente cambiante que en ocasiones nos hace olvidar aspectos como valorarnos a nosotros mismos, la tolerancia, o la colaboración. Desde la más tierna infancia es cuando han de interiorizarse los valores. Las cosas que se aprenden desde los primeros años son difíciles de olvidar, se convierten en hábitos y costumbres fáciles de aplicar. La familia es el principal agente educativo con quienes los niños realizan sus primeros contactos, pero también los profesores y los propios compañeros, son un gran referente para ellos.
+La lectura ejercita la imaginación, fomenta el interés y el aprendizaje por aspectos desconocidos, despierta la curiosidad y permite ampliar horizontes sin necesidad de desplazarse. Gracias a la lectura somos también capaces de aumentar nuestra capacidad de concentración y de abstracción. A través de la lectura se educa en la empatía o capacidad de ponerse en el lugar del otro y permite trasmitir valores como la amistad, la honestidad, la constancia, la tolerancia, etc. Al mismo tiempo que permite enseñar a identificar emociones. Otra forma de adquirir valores desde edades tempranas es mediante los juegos. De hecho, mediante el juego, los niños pueden aprender valores desde la empatía, hasta la solidaridad, pasando por el ahorro. Elegir la actividad que mejor se adapte a cada enseñanza y hacer que los pequeños se diviertan con ellas es un gran instrumento para conseguir este fin. Actualmente, como problemática, se desea desarrollar un libro digital interactivo para la enseñanza de valores en edades tempranas. 
+Por lo planteado anteriormente se tiene como problema de investigación: ¿Cómo ensenar valores en edades tempranas a través de un libro interactivo?
+Como objeto de estudio a partir del problema de investigación se tiene: enseñanza de valores en edades tempranas a través de un libro interactivo.
+El objetivo general que tendrá el presente informe será: Desarrollar un libro interactivo para la enseñanza de valores en edades tempranas.
+De esta manera el campo de acción queda enmarcado como: enseñanza de valores en edades tempranas.
+Tareas de investigación:
+•	Construcción del marco teórico de la investigación.
+•	Seleccionar el motor de videojuego para el diseño del libro interactivo.
+•	Seleccionar las herramientas para el desarrollo del libro interactivo.
+

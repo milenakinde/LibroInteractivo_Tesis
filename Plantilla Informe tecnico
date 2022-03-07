@@ -1,0 +1,168 @@
+
+
+
+
+
+
+Informe Técnico
+Proyecto de Investigación y Desarrollo V
+
+
+
+
+
+Título: Libro digital interactivo para la enseñanza de valores en edades tempranas
+Autor: Milena García Pérez
+Tutor: MSc. Omar Correa Madrigal
+
+
+
+
+La Habana, marzo 2022
+
+
+
+
+
+INTRODUCCION
+La lectura ejercita la imaginación, fomenta el interés y el aprendizaje por aspectos desconocidos, despierta la curiosidad y permite ampliar horizontes sin necesidad de desplazarse. Gracias a la lectura se aumenta la capacidad de concentración y de abstracción. A través de la lectura se educa en la empatía o capacidad de ponerse en el lugar del otro y permite trasmitir valores como la amistad, la honestidad, la constancia, la tolerancia, etc. Al mismo tiempo que permite enseñar a identificar emociones. Otra forma de adquirir valores desde edades tempranas es mediante los juegos. De hecho, mediante el juego, los niños pueden aprender valores desde la empatía, hasta la solidaridad, pasando por el ahorro. Elegir la actividad que mejor se adapte a cada enseñanza y hacer que los pequeños se diviertan con ellas es un gran instrumento para conseguir este fin. Actualmente los medios electrónicos envuelven a los niños en cualquier actividad menos en la lectura que es importante para mejorar su aprendizaje y sostener una comunicación con cualquier persona, por lo tanto, se desea desarrollar un libro digital interactivo para la enseñanza de valores en edades tempranas. 
+Por lo planteado anteriormente se tiene como problema de investigación: ¿Cómo enseñar valores en edades tempranas?
+Como objeto de estudio a partir del problema de investigación se tiene: enseñanza de valores en edades tempranas.
+El objetivo general que tendrá el presente informe será: Desarrollar un libro interactivo para la enseñanza de valores en edades tempranas.
+De esta manera el campo de acción queda enmarcado como: enseñanza de valores en edades tempranas.
+Tareas de investigación:
+•	Construcción del marco teórico de la investigación.
+•	Seleccionar el motor de videojuego para el diseño del libro interactivo.
+•	Seleccionar las herramientas para el desarrollo del libro interactivo.
+•	Realizar un control de versiones usando la herramienta Git
+•	Gestionar el proyecto en cuanto a tareas y duración 
+
+DESARROLLO
+Uno de los medios empleados para educar en valores a los niños es a través de la lectura. Leer historias y cuentos, en los que se muestra los valores que posee el protagonista. Los cuentos son significativos, sobre todo en la época de la infancia. Los niños siempre quieren parecerse al héroe/protagonista de la historia. De ahí que, si éste adopta conductas positivas, quieran ser como ellos y adoptar esos valores (Red Cenit, 2016).
+
+Conceptos fundamentales relacionados con la investigación
+Valores: Aspectos positivos que permiten convivir con otras personas de un modo justo con el fin de alcanzar un beneficio global como sociedad (Ayuda en Acción, 2022).
+
+Lectura: Actividad que consiste en interpretar y descifrar, mediante la vista, el valor fónico de una serie de signos escritos, ya sea mentalmente (en silencio) o en voz alta (oral) (Concepto Definición, 2011-2020).
+
+Videojuego: Juego electrónico que se visualiza en una pantalla. Dispositivo electrónico que permite, mediante mandos apropiados, simular juegos en las pantallas de un televisor, una computadora u otro dispositivo electrónico (Real Academia Española, 2022). 
+
+Libro interactivo: Tipo de ebook que hace parte de una estrategia de contenidos interactivos y que no solo informa lo que es necesario, sino que también estimula la interacción que los lectores pueden hacer con el material  (blog, 2013-2021).
+
+Diseño 3D: conjunto de técnicas que sirven para proyectar en tres dimensiones (Diseño de Páginas Web y Marketing Digital, 2017).
+
+Motor de videojuego: Framework de software diseñado para crear y desarrollar videojuegos. Los desarrolladores de videojuegos pueden usar los motores para crear videojuegos para consola, dispositivos móviles, ordenadores o dispositivos de Realidad Virtual (González Muñoz C., 2015).
+
+Libros interactivos infantiles
+Sin duda el concepto interactivo se presta para muchas interpretaciones. La RAE lo define como algo que permite interacción, a modo de diálogo, entre un computador y el usuario. En este contexto, se hace referencia a libros, revistas o contenidos en general que deben ser leídos a través de un computador, un tablet o un Smartphone (celular o móvil).
+Los libros interactivos para niños son un subconjunto de libros para niños que requiere participación e interacción por parte del lector. La participación puede abarcar desde libros con textura a aquellos con dispositivos especiales utilizados para ayudar a enseñar a los niños ciertas herramientas. 
+
+Libros interactivos homólogos 
+El cuento de Semillas: Fomenta valores como la alegría, el esfuerzo o la generosidad a través de la historia del armadillo y el pájaro, que trabajan en su huerto durante el verano con el fin de recolectar todos los alimentos que necesitan para sobrevivir a la época más fría del año. Mientras, el oso perezoso vive sin preocupaciones. Con la llegada del invierno, al ver que el oso perezoso tiene hambre y frío, sus amigos el armadillo y el pájaro le ayudarán ofreciéndole comida y un hogar, y recordándole la importancia del trabajo, el esfuerzo y la constancia. Este cuento está incluido en la Biblioteca Inteligente de Smile and Learn (Pajuelo, 2022).
+
+La Copa Arrecifez: Colorín y su amigo Burbujas están preparados para la Copa Arrecife, la carrera submarina más importante del mundo. Junto a ellos está Calambres, el campeón de los últimos años. Todos iniciarán una carrera repleta de dificultades que pondrá a prueba la amistad y lealtad de estos tres personajes. Una bonita historia para aprender que en el deporte no todo es una victoria. Este cuento está incluido en la Biblioteca Inteligente de Smile and Learn (Pajuelo, 2022).
+
+Yuri y El Calamar Volador en La Isla de Las Tortugas: El cineasta Iván Cortázar, junto con su hijo de cinco años (y su madre, artista plástica), han creado una serie de cuentos infantiles para iPad y iPhone. Esta primera entrega trata de inculcar el amor por el medio ambiente y la creatividad. Los niños pueden crear al personaje protagonista a su imagen y semejanza, es bilingüe (inglés/español) y ofrece la opción de grabar la narración (Pajuelo, 2022).
+
+
+
+Metodología a utilizar 
+Se tiene como propuesta el empleo de la Metodología Ágil. El enfoque ágil para el desarrollo de software busca distribuir de forma permanente sistemas de software en funcionamiento diseñados con iteraciones rápidas. Se busca proporcionar en poco tiempo pequeñas piezas de software en funcionamiento para aumentar la satisfacción del cliente. Estas metodologías utilizan enfoques flexibles y el trabajo en equipo para ofrecer mejoras constantes (Red Hat, 2020).
+
+Herramientas a utilizar
+Visual Studio Code: Visual Studio Code es un editor de código fuente ligero pero potente que se ejecuta en su escritorio y está disponible para Windows, macOS y Linux. Viene con soporte incorporado para JavaScript, TypeScript y Node.js y tiene un rico ecosistema de extensiones para otros lenguajes (como C++, C#, Java, Python, PHP, Go) y tiempos de ejecución (como .NET y Unity) (Visual Studio Code, 2022).
+
+Unity: Unity es un motor de juegos 3D/2D y un potente IDE multiplataforma para desarrolladores (Sinicki, 2021).
+
+Blender: Blender es la suite de creación 3D gratuita y de código abierto. Admite la totalidad de la tubería 3D: modelado, montaje, animación, simulación, renderizado, composición y seguimiento de movimiento, incluso edición de video y creación de juegos. Los usuarios avanzados emplean la API de Blender para secuencias de comandos de Python para personalizar la aplicación y escribir herramientas especializadas; a menudo, estos se incluyen en las versiones futuras de Blender. Blender se adapta bien a las personas y los estudios pequeños que se benefician de su canalización unificada y su proceso de desarrollo receptivo (Blender, n.d.).
+
+Git: Herramienta usada para el control de versiones.
+
+Propuesta de solución
+En función de dar cumplimiento al objetivo planteado y ajustándose a las necesidades presentes se determina realizar un Libro Interactivo para de enseñanza de valores en edades tempranas. Esto permitirá educar en valores a niños en edades tempranas a través de su vinculación con la lectura y la tecnología. El libro estará desarrollado en tres dimensiones con la herramienta de diseño Blender, en dicho diseño se observará un niño con apariencia de libro en el cual se contarán historias y se mostrarán ejemplos de algún valor humano especifico. Se mostrarán tres pantallas, la pantalla de inicio, una segunda pantalla en forma de biblioteca donde se observarán todos los libros de todos los valores disponibles y una tercera pantalla del libro seleccionado. El niño narrar la historia a la par que vincula expresiones faciales y corporales en dependencia de que sección del libro se esté narrando.
+
+
+
+
+
+CONCLUSIONES
+Todos los padres reconocen la importancia de inculcar a sus hijos una serie de valores en los que apoyarse toda su vida. En estas primeras edades, la base de la educación se centra en la adquisición y el aprendizaje de hábitos que deberá incorporar cada niño a su vida diaria, haciéndolos suyos. Cuando estos hábitos se asimilan, se convierten en valores. 
+El desarrollo de este libro interactivo para la enseñanza de valores en edades tempranas permitirá a los adultos inculcar valores humanos a los niños a través de uso de la tecnología y mediante su vinculación con un buen hábito de lectura.  El análisis de las herramientas informáticas a utilizar en la implementación permitió definir el ambiente de desarrollo para el desarrollo de la propuesta de solución.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMENDACIONES
+Se recomienda para futuras versiones del sistema permitir la representación mediante realidad aumentada del libro para aumentar el interés del niño por su uso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCIAS BIBLIOGRAFICAS 
+Ayuda en Acción. (2022). Obtenido de Ayuda en Acción: https://ayudaenaccion.org/blog/educacion/valores-humanos-mas-importantes/
+Blender. (s.f.). Obtenido de Blender: https://www.blender.org/about/
+
+blog, r. (2013-2021). rockcontent blog. Obtenido de rockcontent blog: https://rockcontent.com/es/blog/libro-digital-interactivo/
+
+Concepto Definición. (2011-2011). Obtenido de Concepto Definición: https://conceptodefinicion.de/lectura/
+
+Diseño de Páginas Web y Marketing Digital. (2017). Obtenido de Diseño de Páginas Web y Marketing Digital: https://www.dweb3d.com/blog/diseno-3d-definicion/
+
+González Muñoz C., G. B. (2015). TecsMedia: Análisis Motores gráficos y su aplicación en la industria. Aragón.
+
+Pajuelo, L. (2022). EDUCACIÓN 3.0. Las mejores apps de cuentos interactivos. Obtenido de EDUCACIÓN 3.0. Las mejores apps de cuentos interactivos: https://www.educaciontrespuntocero.com/recursos/las-mejores-apps-de-cuentos-interactivos/
+
+Real Academia Española. (2022). Obtenido de rae.es: https://dle.rae.es/videojuego?m=form
+Red Cenit, C. d. (2016). redcenit.com. Obtenido de redcenit.com: https://www.redcenit.com/consejos-para-educar-en-valores/
+
+Red Hat. (2020). Obtenido de ¿Qué es la metodología ágil?: https://www.redhat.com/es/devops/what-is-agile-methodology
+
+Sinicki, A. (2021). Android Authority. Obtenido de What is Unity? Everything you need to know: https://www.androidauthority.com/what-is-unity-1131558/
+
+Visual Studio Code. (2022). Obtenido de Visual Studio Code: https://code.visualstudio.com/docs
+
+
+
+<<Asociadas a las tareas desarrolladas>>
