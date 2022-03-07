@@ -1,0 +1,75 @@
+
+FACULTAD 4
+DEPARTAMENTO DOCENTE DE INFORMÁTICA
+PLAN DE FORMACIÓN
+
+Datos del estudiante:
+Nombre completo:	Milena García Pérez	Grupo: 4402
+Año académico: 4to año
+Asignatura: Proyecto de Investigación y Desarrollo IV (PID-V)
+Fase en la que se encuentra:
+→	Formación Especializada
+	Producción y Desarrollo
+Roles certificados:
+Rol	Curso	Rol	Curso
+	Probador			Administrador de la Configuración	
+	Diseñador de Base de Datos			Especialista en Seguridad Informática	
+	Programador			Administrador de Redes	
+	Analista			Arquitecto de Software	
+	Administrador de la calidad			Jefe de Proyecto	
+	Administrador de Base de Datos				
+Datos del Supervisor-Evaluador-Tutor (SET):
+Nombre completo: Omar Correa Madrigal
+Categoría docente:	Profesor Titular				Categoría Investigativa:
+Título académico: Doctor en Ciencias 
+Grado científico:
+Correo electrónico:	ocorrea@uci.cu				Teléfono: 59975833
+Datos del Profesor de Práctica Profesional:
+Nombre completo: Yadira Ramírez Rodríguez
+Categoría docente:	Profesor Auxiliar				Categoría Investigativa:
+Título académico: Máster en Calidad de Software
+Grado científico:
+Correo electrónico:	yramirezr@uci.cu				Teléfono: 58046987-78373242
+ 
+Datos de la ACTIPS:
+Nombre completo:  <denominación de la entidad>
+Organismo: <denominación del organismo>
+Dirección: <dirección de la ACTIPS>
+Directivo:  <nombre y apellido>
+Contacto:  						Teléfono:
+Correo electrónico:
+Objetivos a cumplir en el periodo:
+1.	Ejercer de forma comprometida y de acuerdo a los conocimientos y habilidades adquiridos, las actividades técnico-profesionales propias de la especialidad informática, bajo los principios éticos y los valores morales definidos en el modelo del profesional de la carrera, comprometido con su entorno cultural, político y social y en cualquiera de los escenarios de la vida nacional o internacional, para que comprenda y aplique la concepción de la preparación para la defensa del país.
+2.	Desarrollar una conciencia de productores, que incluya un comportamiento disciplinado, los hábitos de organización personal y la responsabilidad que requieren las actividades relacionadas con su desempeño como profesionales.
+3.	Ejecutar actividades prácticas en los proyectos productivos desempeñando roles con determinados parámetros de calidad, mostrando las competencias técnicas.
+4.	Manipular adecuadamente y con ética, la información generada en el proceso de desarrollo, en función de la necesidad de garantizar el cumplimiento de los intereses de la seguridad y defensa del país y la institución donde se desempeñe durante su práctica profesional.
+Contenido de aprendizaje:
+	Como desarrollador de soluciones informáticas:
+a)	Lenguajes de programación de alto nivel. 
+b)	Patrones de software de acuerdo a las necesidades de la aplicación o sistema a desarrollar.
+c)	Lenguajes de modelado de software.
+d)	Herramientas automatizadas para la Ingeniería de Software (modelado, control de versiones, prototipado, gestión de proyectos, entre otras).
+	Como probador de soluciones informáticas:
+a)	Métodos, procedimientos, metodologías, enfoques y herramientas para la validación y la verificación de software. 
+b)	Herramientas automatizadas para la validación y la verificación de software.
+
+
+___________________________________	___________________________________
+Firma del Estudiante				Firma del SET
+
+___________________________________	___________________________________
+Firma del Profesor Práctica Profesional		Firma del Coordinador de la ACTIPS
+
+___________________________________	
+Firma del Jefe de Departamento Informática	Fecha de elaboración: 1 /03 /2022 
+Plan de actividades y tareas:
+No	Actividad	No	Tarea	Cumplimiento	Observaciones
+				Total	Parcial	Nulo	
+1	Desarrollar soluciones informáticas	1.1	Desarrollar aplicaciones informáticas de nivel básico, con alto nivel de profesionalidad	X			
+		1.2	Documentar programas	X			
+		1.3	Realizar servicios de soporte a sistemas de cómputo			X	
+		1.4	Gestionar tareas desde una herramienta de gestión de proyectos		X		
+		1.5	Gestionar cambios en el proceso de desarrollo del sistema informático, utilizando herramientas de control de versiones	X			 
+2	Probar soluciones informáticas	2.1	Realizar el seguimiento a los planes de prueba a partir de la estrategia y el cronograma del proyecto de desarrollo de software diseñado garantizando su cumplimiento y la calidad de las pruebas realizadas				
+		2.2	Ejecutar los casos de pruebas de caja blanca generando, clasificando y describiendo las No Conformidades detectadas de acuerdo a las normas y directivas de la estrategia y  modelo de calidad seguida en el proyecto de desarrollo de software				
+
