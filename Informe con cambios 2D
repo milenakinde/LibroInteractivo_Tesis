@@ -1,0 +1,216 @@
+
+
+
+Informe Técnico
+Proyecto de Investigación y Desarrollo V
+Universidad de las Ciencias Informáticas 
+Facultad 4
+ 
+
+Título: Libro digital interactivo para la enseñanza de valores en edades tempranas
+Autor: Milena García Pérez
+Tutor: Dr.Sc. Omar Correa Madrigal
+            MSc. Yadira Ramírez Ramírez 
+
+
+
+
+La Habana, marzo 2022
+
+Índice
+INTRODUCCION	3
+DESARROLLO	3
+Referentes teóricos	4
+Libros interactivos infantiles	4
+Soluciones homologas existentes	5
+Ambiente de trabajo	5
+Metodología a emplear	5
+Características de la Metodología XP	6
+Herramientas a utilizar	6
+Propuesta de solución	6
+Levantamiento de requisitos	8
+CONCLUSIONES	8
+RECOMENDACIONES	9
+REFERENCIAS BIBLIOGRAFICAS	10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCCION
+La lectura ejercita la imaginación, fomenta el interés y el aprendizaje por aspectos desconocidos, despierta la curiosidad y permite ampliar horizontes sin necesidad de desplazarse. Gracias a la lectura se aumenta la capacidad de concentración y de abstracción. A través de la lectura se educa en la empatía o capacidad de ponerse en el lugar del otro y permite trasmitir valores como la amistad, la honestidad, la constancia o la tolerancia. Al mismo tiempo que permite enseñar a identificar emociones. Otra forma de adquirir valores desde edades tempranas es mediante los juegos. Actualmente los medios electrónicos envuelven a los niños en cualquier actividad menos en la lectura que es importante para mejorar su aprendizaje y sostener una comunicación con cualquier persona, por lo tanto, se desea desarrollar un libro digital interactivo para la enseñanza de valores en edades tempranas. 
+Por lo planteado anteriormente se tiene como problema de investigación: ¿Cómo desarrollar un libro interactivo para la enseñanza valores en edades tempranas?
+Como objeto de estudio a partir del problema de investigación se tiene: enseñanza de valores en edades tempranas.
+El objetivo general que tendrá el presente informe será: Diseñar el inicio de un libro interactivo para la enseñanza de valores en edades tempranas.
+De esta manera el campo de acción queda enmarcado como: enseñanza de valores en edades tempranas.
+Tareas de investigación:
+•	Construir el marco teórico de la investigación para acondicionar la información científica que existe sobre lo que se va a investigar.
+•	Seleccionar la herramienta de diseño gráfico y animación para la creación y la representación del libro interactivo.
+•	Seleccionar las herramientas para el desarrollo del libro interactivo.
+•	Gestionar el proyecto en cuanto a tareas y duración para lograr el control de tareas, áreas, procesos y datos con el objetivo de cumplir con cronogramas y estimaciones.
+
+DESARROLLO
+Uno de los medios empleados para educar en valores a los niños es a través de la lectura. Leer historias y cuentos, en los que se muestra los valores que posee el protagonista. Los cuentos son significativos, sobre todo en la época de la infancia. Los niños siempre quieren parecerse al héroe/protagonista de la historia. De ahí que, si éste adopta conductas positivas, quieran ser como ellos y adoptar esos valores (Red Cenit, 2016).
+
+Referentes teóricos 
+Valores: Aspectos positivos que permiten convivir con otras personas de un modo justo con el fin de alcanzar un beneficio global como sociedad (Ayuda en Acción, 2022).
+
+Lectura: Actividad que consiste en interpretar y descifrar, mediante la vista, el valor fónico de una serie de signos escritos, ya sea mentalmente (en silencio) o en voz alta (oral) (Concepto Definición, 2011-2020).
+
+Videojuego: Juego electrónico que se visualiza en una pantalla. Dispositivo electrónico que permite, mediante mandos apropiados, simular juegos en las pantallas de un televisor, una computadora u otro dispositivo electrónico (Real Academia Española, 2022). 
+
+Libro interactivo: Tipo de ebook que hace parte de una estrategia de contenidos interactivos y que no solo informa lo que es necesario, sino que también estimula la interacción que los lectores pueden hacer con el material  (blog, 2013-2021).
+
+Editor de gráficos vectoriales: aplicación informática que permite al usuario crear y editar imágenes de gráficos vectoriales de forma interactiva en la pantalla de la computadora y guardarla en uno de los tantos formatos de gráficos vectoriales.
+
+Diseño 2D: conjunto de técnicas que sirven para proyectar en dos dimensiones (Diseño de Páginas Web y Marketing Digital, 2017).
+
+Libros interactivos infantiles
+Sin duda el concepto interactivo se presta para muchas interpretaciones. La RAE lo define como algo que permite interacción, a modo de diálogo, entre un computador y el usuario. En este contexto, se hace referencia a libros, revistas o contenidos en general que deben ser leídos a través de un computador, un tablet o un Smartphone (celular o móvil).
+Los libros interactivos para niños son un subconjunto de libros para niños que requiere participación e interacción por parte del lector. La participación puede abarcar desde libros con textura a aquellos con dispositivos especiales utilizados para ayudar a enseñar a los niños ciertas herramientas. 
+
+Soluciones homologas existentes
+Un libro digital interactivo es un tipo de ebook que hace parte de una estrategia de contenidos interactivos y que no solo informa lo que es necesario, sino que también estimula la interacción que los lectores pueden hacer con el material. Algunos ejemplos de libros interactivos para niños son:
+El cuento de Semillas: Fomenta valores como la alegría, el esfuerzo o la generosidad a través de la historia del armadillo y el pájaro, que trabajan en su huerto durante el verano con el fin de recolectar todos los alimentos que necesitan para sobrevivir a la época más fría del año. Mientras, el oso perezoso vive sin preocupaciones. Con la llegada del invierno, al ver que el oso perezoso tiene hambre y frío, sus amigos el armadillo y el pájaro le ayudarán ofreciéndole comida y un hogar, y recordándole la importancia del trabajo, el esfuerzo y la constancia. Este cuento está incluido en la Biblioteca Inteligente de Smile and Learn (Pajuelo, 2022).
+
+La Copa Arrecifez: Colorín y su amigo Burbujas están preparados para la Copa Arrecife, la carrera submarina más importante del mundo. Junto a ellos está Calambres, el campeón de los últimos años. Todos iniciarán una carrera repleta de dificultades que pondrá a prueba la amistad y lealtad de estos tres personajes. Una bonita historia para aprender que en el deporte no todo es una victoria. Este cuento está incluido en la Biblioteca Inteligente de Smile and Learn (Pajuelo, 2022).
+
+Yuri y El Calamar Volador en La Isla de Las Tortugas: El cineasta Iván Cortázar, junto con su hijo de cinco años (y su madre, artista plástica), han creado una serie de cuentos infantiles para iPad y iPhone. Esta primera entrega trata de inculcar el amor por el medio ambiente y la creatividad. Los niños pueden crear al personaje protagonista a su imagen y semejanza, es bilingüe (inglés/español) y ofrece la opción de grabar la narración (Pajuelo, 2022).
+
+
+
+Ambiente de trabajo
+Metodología a emplear
+Se tiene como propuesta el empleo de la Metodología XP. La metodología XP es un conjunto de técnicas que dan agilidad y flexibilidad en la gestión de proyectos. También es conocida como Programación Extrema (Extreme Programming) y se centra crear un producto según los requisitos exactos del cliente. De ahí, que le involucre al máximo durante el método de gestión del desarrollo del producto.
+
+Características de la Metodología XP
+•	Comunicación constante entre el cliente y el equipo de desarrollo.
+•	Respuesta rápida a los cambios constantes.
+•	La planificación es abierta con un cronograma de actividades flexible.
+•	Los requisitos del cliente y el trabajo del equipo del proyecto son los principales factores de éxito del mismo.
+Herramientas a utilizar
+Visual Studio Code: Visual Studio Code es un editor de código fuente ligero pero potente que se ejecuta en su escritorio y está disponible para Windows, macOS y Linux. Viene con soporte incorporado para JavaScript, TypeScript y Node.js y tiene un rico ecosistema de extensiones para otros lenguajes (como C++, C#, Java, Python, PHP, Go) y tiempos de ejecución (como .NET y Unity) (Visual Studio Code, 2022).
+
+Adobe Illustrator: aplicación de diseño estándar del sector que te permite plasmar tu visión creativa con formas, colores, efectos y tipografías. Funciona en dispositivos móviles y de escritorio, y sus magníficos diseños pueden acabar impresos, en Internet y apps, en vídeos y animaciones (Adobe, 2022).
+
+Adobe After Effects: software de animación 2.5D que se utiliza para animación, efectos visuales y composición de imágenes en movimiento. After Effects se usa en la creación de videos de cine, televisión y web.
+
+Propuesta de solución
+En función de dar cumplimiento al objetivo planteado y ajustándose a las necesidades presentes se determina realizar un Libro Interactivo para de enseñanza de valores en edades tempranas. Esto permitirá educar en valores a niños en edades tempranas a través de su vinculación con la lectura y la tecnología. El libro estará desarrollado en dos dimensiones con la herramienta de diseño Blender, en dicho diseño se observará un niño con apariencia de libro en el cual se contarán historias y se mostrarán ejemplos de algún valor humano especifico. Se mostrarán tres pantallas, la pantalla de inicio, una segunda pantalla en forma de biblioteca donde se observarán todos los libros de todos los valores disponibles y una tercera pantalla del libro seleccionado. El niño narrar la historia a la par que vincula expresiones faciales y corporales en dependencia de que sección del libro se esté narrando.
+
+ 
+Ilustración 1: Modelo Conceptual [Elaboración propia]
+
+El modelo del dominio está compuesto por las clases que se describen en la Tabla 1 que se muestra a continuación:
+
+Tabla 1: Descripción de la clase del modelo del dominio [Elaboración propia]
+Concepto	Descripción
+Usuario	Persona que accede a la aplicación.
+Inicio	Pantalla principal de la aplicación donde encuentra la información de la misma y un acceso a la biblioteca.
+Biblioteca	Pantalla donde se encuentran todos los libros de todos los valores disponibles.
+Cuento	Muestra la historia seleccionada por el usuario y tiene la posibilidad de volver al inicio de la aplicación o a la biblioteca.
+
+Levantamiento de requisitos
+Los requisitos para un sistema son la descripción de los servicios proporcionados por el sistema y sus restricciones operativas. Estos requisitos reflejan la necesidad de los clientes de un sistema que ayude a resolver algún problema como el control de un dispositivo, hacer un pedido o encontrar información. Es el proceso de descubrir, analizar, documentar y verificar estos servicios y restricciones (Somerville, 2011).
+
+Requisito funcional (RF)	Requisito no funcional (RNF)
+RF-01. El sistema debe desplegar el libro interactivo.	RNF-01. La experiencia se debe desplegar en dispositivos móviles (celulares y tabletas).
+RF-02. El sistema debe permitir realizar ajustes de volumen del audio de la historia.	RNF-02. La experiencia debe permitir la participación de una sola persona.
+RF-03. El sistema debe permitir abandonar la historia en cualquier momento	RNF-03. Los gráficos de la experiencia serán desplegados en 2D.
+RF-04. El sistema debe mostrar opciones en cada historia como: Volver al inicio y Volver a la biblioteca	RNF-04. La aplicación debe poseer una gama de colores alegres y llamativos ya que está orientada a niños en edades tempranas.
+
+
+
+
+
+
+
+
+
+
+
+
+CONCLUSIONES
+Con el desarrollo de la presente investigación se obtuvo el diseño inicial de un libro interactivo para la enseñanza de valores en edades tempranas, por lo que se concluye que: 
+•	El uso de la herramienta Adobe Illustrator favoreció el diseño gráfico de la aplicación dada una amplia gama de colores y herramientas para crear piezas digitales.
+•	Con la metodología XP se fue construyendo un producto muy ajustado a los requerimientos del cliente.
+•	La animación de la aplicación con Adobe After Effects permite combinar capas de video e imágenes en la misma escena.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMENDACIONES
+Para dar continuidad a la presente investigación se recomienda: 
+• Adicionar nuevos valores para ampliar las funcionalidades del videojuego. 
+• Implementar una sección de juegos relacionados con los cuentos que contiene el libro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCIAS BIBLIOGRAFICAS 
+Adobe. (2022). Adobe. Obtenido de Adobe: https://helpx.adobe.com/mx/illustrator/how-to/what-is-illustrator.html
+Ayuda en Acción. (2022). Obtenido de Ayuda en Acción: https://ayudaenaccion.org/blog/educacion/valores-humanos-mas-importantes/
+Diseño de Páginas Web y Marketing Digital. (2017). Obtenido de Diseño de Páginas Web y Marketing Digital: https://www.dweb3d.com/blog/diseno-3d-definicion/
+González Muñoz C., G. B. (2015). TecsMedia: Análisis Motores gráficos y su aplicación en la industria. Aragón.
+Pajuelo, L. (2022). EDUCACIÓN 3.0. Las mejores apps de cuentos interactivos. Obtenido de EDUCACIÓN 3.0. Las mejores apps de cuentos interactivos: https://www.educaciontrespuntocero.com/recursos/las-mejores-apps-de-cuentos-interactivos/
+Real Academia Española. (2022). Obtenido de rae.es: https://dle.rae.es/videojuego?m=form
+Red Cenit, C. d. (2016). redcenit.com. Obtenido de redcenit.com: https://www.redcenit.com/consejos-para-educar-en-valores/
+Red Hat. (2020). Obtenido de ¿Qué es la metodología ágil?: https://www.redhat.com/es/devops/what-is-agile-methodology
+Visual Studio Code. (2022). Obtenido de Visual Studio Code: https://code.visualstudio.com/docs
+
+
